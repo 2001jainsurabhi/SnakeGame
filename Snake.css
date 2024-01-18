@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.game-container {
+  position: relative;
+    background-color: aqua
+}
+
+.error-message {
+  text-align: center;
+}
+
+#errorCanvas {
+  display: none;
+}
